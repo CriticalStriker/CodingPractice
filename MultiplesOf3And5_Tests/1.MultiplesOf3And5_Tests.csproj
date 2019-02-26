@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MultiplesOf3And5\MultiplesOf3And5.csproj">
+    <ProjectReference Include="..\MultiplesOf3And5\1.MultiplesOf3And5.csproj">
       <Project>{c3389f4b-42a3-49fb-87a3-013526689575}</Project>
-      <Name>MultiplesOf3And5</Name>
+      <Name>1.MultiplesOf3And5</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
