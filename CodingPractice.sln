@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MultiplesOf3And5", "MultiplesOf3And5\1.MultiplesOf3And5.csproj", "{C3389F4B-42A3-49FB-87A3-013526689575}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MultiplesOf3And5", "1.MultiplesOf3And5\1.MultiplesOf3And5.csproj", "{C3389F4B-42A3-49FB-87A3-013526689575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MultiplesOf3And5_Tests", "MultiplesOf3And5_Tests\1.MultiplesOf3And5_Tests.csproj", "{D17816F9-4A41-4DA8-91E9-BF374E9B9221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MultiplesOf3And5_Tests", "1.MultiplesOf3And5_Tests\1.MultiplesOf3And5_Tests.csproj", "{D17816F9-4A41-4DA8-91E9-BF374E9B9221}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.FindSelfNumbers", "2.FindSelfNumbers\2.FindSelfNumbers.vcxproj", "{FEE7E4B2-7004-4446-B254-E74D33A7E4EB}"
 EndProject
