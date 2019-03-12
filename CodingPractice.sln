@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Count8Numbers", "4.Count8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Count8Numbers_Tests", "4.Count8Numbers_Tests\4.Count8Numbers_Tests.csproj", "{6B549811-F458-4DDE-82E5-C79806D7C054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.FindMinimumDistance", "5.FindMinimumDistance\5.FindMinimumDistance.csproj", "{979A97F7-5F22-468D-8C52-212AAA688955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,18 @@ Global
 		{6B549811-F458-4DDE-82E5-C79806D7C054}.Release|x64.Build.0 = Release|Any CPU
 		{6B549811-F458-4DDE-82E5-C79806D7C054}.Release|x86.ActiveCfg = Release|Any CPU
 		{6B549811-F458-4DDE-82E5-C79806D7C054}.Release|x86.Build.0 = Release|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Debug|x64.Build.0 = Debug|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Debug|x86.Build.0 = Debug|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Release|x64.ActiveCfg = Release|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Release|x64.Build.0 = Release|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Release|x86.ActiveCfg = Release|Any CPU
+		{979A97F7-5F22-468D-8C52-212AAA688955}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
